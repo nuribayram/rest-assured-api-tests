@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BackendApiTests.BackendTests" tests="4" skipped="2" failures="0" errors="0" timestamp="2019-07-19T10:06:04" hostname="NLMB2284-C57772" time="0.637">
+  <properties/>
+  <testcase name="postSomething()" classname="BackendApiTests.BackendTests" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="anotherTest()" classname="BackendApiTests.BackendTests" time="0.501"/>
+  <testcase name="testSomething()" classname="BackendApiTests.BackendTests" time="0.134"/>
+  <testcase name="testUserHas10Posts()" classname="BackendApiTests.BackendTests" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[{
+    "userId": 1,
+    "id": 1,
+    "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+    "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+}
+Request method:	GET
+Request URI:	https://jsonplaceholder.typicode.com/posts/1
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=bla; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

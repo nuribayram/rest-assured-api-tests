@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="someTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-07-19T10:06:03" hostname="NLMB2284-C57772" time="1.157">
+  <properties/>
+  <testcase name="testSomethingNow()" classname="someTest" time="1.157"/>
+  <system-out><![CDATA[hello
+Request method:	GET
+Request URI:	https://jsonplaceholder.typicode.com/posts/1
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+bla
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
